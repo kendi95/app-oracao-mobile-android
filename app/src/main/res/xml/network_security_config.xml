@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">192.168.0.116</domain>
+        <domain includeSubdomains="true">192.168.0.129</domain>
+        <domain includeSubdomains="true">192.168.0.133</domain>
+        <domain includeSubdomains="true">192.168.0.187</domain>
+        <domain includeSubdomains="true">192.168.0.145</domain>
+        <domain includeSubdomains="true">192.168.0.100</domain>
+        <domain includeSubdomains="true">192.168.0.104</domain>
+        <domain includeSubdomains="true">192.168.1.164</domain>
+        <domain includeSubdomains="true">192.168.1.111</domain>
+        <domain includeSubdomains="true">ec2-54-209-225-52.compute-1.amazonaws.com</domain>
+    </domain-config>
+
+</network-security-config>

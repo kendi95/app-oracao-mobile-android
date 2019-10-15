@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#C20000</color>
+    <color name="colorPrimaryDark">#A80000</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="colorDatePickerRed">#C20000</color>
+    <color name="colorDatePickerBlue">#0003C2</color>
+    <color name="colorDatePickerGreen">#06C200</color>
+
+</resources>

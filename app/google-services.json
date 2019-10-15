@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "657597042262",
+    "firebase_url": "https://app-oracao-teste.firebaseio.com",
+    "project_id": "app-oracao-teste",
+    "storage_bucket": "app-oracao-teste.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657597042262:android:ebd3b1c0ddbf28c1",
+        "android_client_info": {
+          "package_name": "com.app_oracao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657597042262-9mkvvrf2nr9dfte9j2ebhk9souu71klg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app_oracao",
+            "certificate_hash": "4b67152c6fce7c12bf6093795f1627ad06b36a0b"
+          }
+        },
+        {
+          "client_id": "657597042262-prds2uieg7l1qcmo59367736k7ilf3u3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9hJhSenhCLKhijy7G_VAaQJTaQqFdmDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657597042262-prds2uieg7l1qcmo59367736k7ilf3u3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

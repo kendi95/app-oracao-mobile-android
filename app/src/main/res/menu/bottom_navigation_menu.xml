@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/bottom_nav_intercessoes"
+            android:checkable="true"
+            android:icon="@drawable/ic_kneel_pray_grey_24dp"
+            android:title="Intercessões" />
+
+        <item android:id="@+id/bottom_nav_minha_agenda"
+            android:icon="@drawable/ic_today_gray_24dp"
+            android:checkable="true"
+            android:title="Minha Agenda" />
+    </group>
+
+</menu>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/id_menu_home"
+            android:icon="@drawable/ic_home_grey_24dp"
+            android:title="Home" />
+        <item
+            android:id="@+id/id_menu_perfil"
+            android:icon="@drawable/ic_person_grey_24dp"
+            android:title="Perfil" />
+        <item
+            android:id="@+id/id_menu_convite"
+            android:icon="@drawable/ic_insert_invitation_grey_24dp"
+            android:title="Convite" />
+        <item
+            android:id="@+id/id_menu_pedidos"
+            android:icon="@drawable/ic_mail_grey_24dp"
+            android:title="Pedidos" />
+
+        <item
+            android:id="@+id/id_menu_intercessao"
+            android:icon="@drawable/ic_kneel_pray_grey_24dp"
+            android:title="Intercessão" />
+    </group>
+
+    <item android:title="Comunicação">
+        <menu>
+            <item
+                android:id="@+id/id_fale_conosco"
+                android:icon="@drawable/ic_message_grey_24dp"
+                android:title="Fale conosco" />
+            <item
+                android:id="@+id/id_menu_sobre"
+                android:icon="@drawable/ic_info_grey_24dp"
+                android:title="Sobre o app" />
+        </menu>
+    </item>
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/id_menu_logout"
+            android:icon="@drawable/ic_exit_to_app_grey_24dp"
+            android:title="Sair" />
+    </group>
+
+</menu>
